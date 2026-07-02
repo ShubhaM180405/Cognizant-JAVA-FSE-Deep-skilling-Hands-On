@@ -1,0 +1,4 @@
+15:29:57.684 [main] DEBUG c.s.s.AppenderExample - Debug Message
+15:29:57.687 [main] INFO  c.s.s.AppenderExample - Info Message
+15:29:57.688 [main] WARN  c.s.s.AppenderExample - Warning Message
+15:29:57.688 [main] ERROR c.s.s.AppenderExample - Error Message
