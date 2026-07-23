@@ -1,0 +1,23 @@
+body{
+
+font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.container{
+    margin:10px;
+}
+
+.currency{
+
+margin-top:30px;
+
+}
+
+input{
+
+padding:8px;
+
+width:200px;
+
+}
